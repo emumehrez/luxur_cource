@@ -1,0 +1,14 @@
+logrotate state -- version 2
+"/home/emanmehrezpc/.cache/upstart/unity7.log" 2020-4-8-10:0:0
+"/home/emanmehrezpc/.cache/upstart/indicator-sound.log" 2020-4-8-10:0:0
+"/home/emanmehrezpc/.cache/upstart/update-notifier-crash-_var_crash__usr_bin_appstreamcli.0.crash.log" 2020-4-8-10:0:0
+"/home/emanmehrezpc/.cache/upstart/window-stack-bridge.log" 2020-4-8-10:0:0
+"/home/emanmehrezpc/.cache/upstart/bamfdaemon.log" 2020-4-8-10:0:0
+"/home/emanmehrezpc/.cache/upstart/dbus.log" 2020-4-8-10:0:0
+"/home/emanmehrezpc/.cache/upstart/hud.log" 2020-4-8-10:0:0
+"/home/emanmehrezpc/.cache/upstart/gnome-keyring-ssh.log" 2020-4-8-10:0:0
+"/home/emanmehrezpc/.cache/upstart/unity-settings-daemon.log" 2020-4-8-10:0:0
+"/home/emanmehrezpc/.cache/upstart/unity-panel-service.log" 2020-4-8-10:0:0
+"/home/emanmehrezpc/.cache/upstart/ssh-agent.log" 2020-4-8-10:0:0
+"/home/emanmehrezpc/.cache/upstart/upstart-event-bridge.log" 2020-4-8-10:0:0
+"/home/emanmehrezpc/.cache/upstart/gpg-agent.log" 2020-4-8-10:0:0
